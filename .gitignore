@@ -1,5 +1,3 @@
 Cache-Memcached-Rust-*
 /.build/
 *.swp
-
-
